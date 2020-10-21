@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="lib/style.css" />
+    <script src="lib/script.js"></script>
+  </head>
+
+  <body>
+    <div class="container px-lg-5">
+      <div class="row mx-lg-n5">
+        <div class="card" style="width: 55%">
+          <img
+            src="https://logos-marcas.com/wp-content/uploads/2020/04/Guns-N-Roses-Logo.png"
+            class="card-img-top"
+            alt="Imagen Gansos rosas"
+            style="width: 90%"
+          />
+          <div class="card-body">
+            <h2 class="card-title">GUNS N' ROSES</h2>
+            <p class="card-text">
+              Guns N' Roses es una banda estadounidense de hard rock formada en
+              Hollywood en la zona de Sunset Strip alrededor de Santa Monica, en
+              la ciudad de Los Ángeles, California en 1985. El grupo fue fundado
+              por el vocalista Axl Rose y el guitarrista Izzy Stradlin.​Es una
+              de las bandas de rock más exitosas de todos los tiempos, habiendo
+              vendido más de ciento cincuenta millones de discos, es considerada
+              ícono global de la música y forma parte del prestigioso Salón de
+              la Fama del Rock and Roll. Asimismo, la banda es uno de los
+              números artísticos con más galardones, legado y repercusión
+              mundial hasta la fecha. También Guns N' Roses es considerada una
+              de las bandas más influyentes de la historia debido a su gran
+              legado musical.
+            </p>
+            <p>
+              De igual forma en el año 2011 fueron posicionados en el puesto
+              "n°21" en la lista de "los 100 mejores artistas de la historia",
+              elaborada por la revista Rolling Stone en conjunto con diversos
+              productores y críticos musicales
+            </p>
+            <p>
+              La banda ha vendido más de 150 millones de álbumes en todo el
+              mundo, incluyendo más de 60 millones de álbumes solo en los
+              Estados Unidos, lo que los posiciona en el puesto n°18 en la lista
+              de los artistas con más ventas y éxito de todos los tiempos. Su
+              álbum debut Appetite for Destruction de 1987 ha vendido 35​
+              millones de copias a nivel mundial y alcanzó el número 1 en el
+              Billboard 200 en Estados Unidos. Además, cuatro canciones del
+              álbum ingresaron en el Top 10 en la Billboard Hot 100, y «Sweet
+              Child o' Mine» quedó en el número uno. Además, es el álbum debut
+              más exitoso y vendido en la historia y esta calificado como el
+              cuarto mejor álbum debut de la historia, según la revista Rolling
+              Stone. Su álbum de 1988 G N' R Lies ha vendido más de 16 millones
+              de copias en todo el mundo y su canción «Patience» entró en el Top
+              5 del Billboard Hot 100 y el álbum alcanzó el número dos en el
+              Billboard 200. Los álbumes gemelos Use Your Illusion I y Use Your
+              Illusion II, de 1991, subieron al número 2 y 1 del Billboard 200,
+              respectivamente, manteniéndose durante 108 semanas, teniendo una
+              cifra combinada de ventas de más de 55 millones de copias a nivel
+              mundial y 25 millones de copias vendidas solo en Estados Unidos,​
+              seis de los sencillos de ambos álbumes llegaron al Billboard Hot
+              100 y cuatro de ellos entraron al Top 10 de la misma lista.
+            </p>
+            <a
+              href="https://es.wikipedia.org/wiki/Guns_N%27_Roses"
+              class="btn btn-primary"
+              >Leer más...</a
+            >
+            <br />
+            <h3 class="IntegrantesTitle">Sus integrantes son:</h3>
+            <ul class="IntegrantesList">
+              <li>Vocalista y pianista lider Axl Rose</li>
+              <li>Guitarrista lider Slash</li>
+              <li>El bajista Duff McKagan</li>
+              <li>El baterista Frank Ferrer</li>
+              <li>El guitarrista rítmico Richard Fortus</li>
+              <li>En teclados y coros Dizzy Reed y Melissa Reese</li>
+            </ul>
+            <br />
+            <br />
+          </div>
+        </div>
+
+        <div class="card1" style="width: 40%">
+          <br />
+          <div class="card-body">
+            <br />
+            <h3 class="card-title">Principales Éxitos:</h3>
+            <ul class="card-text">
+              <li>Sweet Child O' Mine</li>
+              <br />
+              <iframe
+                src="https://embed.tidal.com/tracks/3870147?layout=gridify"
+                frameborder="0"
+                allowfullscreen
+                width="80%"
+                height="30%"
+              ></iframe>
+              <li>Welcome to the Jungle</li>
+              <br />
+              <iframe
+                src="https://embed.tidal.com/tracks/294169?layout=gridify"
+                frameborder="0"
+                allowfullscreen
+                width="80%"
+                height="30%"
+              ></iframe>
+              <li>Paradise City</li>
+              <br />
+              <iframe
+                src="https://embed.tidal.com/tracks/3870144?layout=gridify"
+                frameborder="0"
+                allowfullscreen
+                width="80%"
+                height="30%"
+              ></iframe>
+
+              <li>November Rain</li>
+              <br />
+              <iframe
+                src="https://embed.tidal.com/tracks/629061?layout=gridify"
+                frameborder="0"
+                allowfullscreen
+                width="80%"
+                height="30%"
+              ></iframe>
+
+              <li>Patience</li>
+              <br />
+              <iframe
+                src="https://embed.tidal.com/tracks/7798094?layout=gridify"
+                frameborder="0"
+                allowfullscreen
+                width="80%"
+                height="30%"
+              ></iframe>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="imagenFinal">
+      <img
+        src="https://i.redd.it/i9zfltaad2051.png"
+        class="imagenGuns2"
+        width="100%"
+        height="400"
+      />
+    </div>
+  </body>
+</html>

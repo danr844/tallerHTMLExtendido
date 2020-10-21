@@ -1,0 +1,42 @@
+/* Add your styles here */
+body {
+  background-color: rgb(25, 8, 5);
+}
+h2 {
+  color: white;
+}
+p {
+  color: white;
+}
+.btn-primary {
+  color: red;
+}
+
+.card {
+  display: inline-block;
+  vertical-align: text-top;
+  text-align: center;
+  left: 0%;
+}
+.card-text {
+  text-align: center;
+}
+.card1 {
+  display: inline-block;
+  vertical-align: text-top;
+  text-align: right;
+  color: white;
+  right: 0%;
+}
+.card-title{
+  text-align: center;
+}
+.card-body{
+  color: white;
+}
+.IntegrantesList{
+  text-align: left;
+}
+.imagenFinal{
+  text-align: center;
+}
