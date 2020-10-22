@@ -1,42 +1,148 @@
-/* Add your styles here */
-body {
-  background-color: rgb(25, 8, 5);
+h1 {
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-weight: bolder;
+  color: white;
 }
 h2 {
+  text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-weight: bold;
   color: white;
-}
-p {
-  color: white;
-}
-.btn-primary {
-  color: red;
 }
 
-.card {
-  display: inline-block;
-  vertical-align: text-top;
-  text-align: center;
-  left: 0%;
-}
-.card-text {
+h6 {
   text-align: center;
 }
-.card1 {
-  display: inline-block;
-  vertical-align: text-top;
-  text-align: right;
-  color: white;
-  right: 0%;
+
+p {
+  font-family: font-accident-two;
+  text-align: justify;
+  font-size: 20px;
 }
-.card-title{
+
+li {
   text-align: center;
+  font-family: century-gothic, sans-serif;
+  font-size: 20px;
+  font-style: italic;
 }
-.card-body{
-  color: white;
+img {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  object-fit: cover;
 }
-.IntegrantesList{
-  text-align: left;
+
+#contenedorImagen {
+  height: auto;
+  width: auto;
+  background-color:white;
+  align-items: center;
 }
-.imagenFinal{
+#prueba1{
+  background-color: rgb(52, 152, 219);
+}
+#carta1{
+  background-color:rgb(52, 152, 219) ;
+}
+#carta2{
+  background-color:rgb(52, 152, 219) ;
+}
+#carta3{
+  background-color:rgb(52, 152, 219) ;
+}
+
+#contenedor {
+  height: auto;
+  align-items: center;
+}
+#contenedor1 {
+  background-color:rgb(79, 79, 79);
+}
+#contenedor1_5 {
+  background-color: rgb(79, 79, 79);
   text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#contenedor2 {
+  background-color: darkgray;
+  display: flex;
+  align-items: center;
+}
+
+#contenedor3 {
+  background-color: darkgray;
+  display: flex;
+  align-items: center;
+}
+
+#contenedorCanciones {
+  background-color:rgb(239, 239, 239);
+}
+
+#contenedorExtra {
+  background-color: white;
+}
+
+#contenedorSkills {
+  background-color: rgb(52, 152, 219);
+  align-items: center;
+  align-content: center;
+  vertical-align: center;
+}
+
+#contenedorAlbumes {
+  background-color: 	rgb(155, 89, 182);
+  align-content: center;
+}
+
+#miembro1 {
+  background-color: rgb(26, 188, 156);
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+#miembro2 {
+  background-color: rgb(52, 152, 219);
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+#miembro3 {
+  background-color: 	rgb(155, 89, 182);
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+#miembro4 {
+  background-color: rgb(230, 126, 34);
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+#miembro5 {
+  background-color: 	rgb(231, 76, 60);
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+#miembro6 {
+  background-color: rgb(214, 166, 29);
+  height: 150px;
+  display: flex;
+  align-items: center;
+}
+
+a[href="https://es.wikipedia.org/wiki/Imagine_Dragons"]
+{
+  color: crimson;
+  text-decoration: underline;
 }
